@@ -1,7 +1,7 @@
-Study Notion - An Ed Tech Platform
-Study Notion
+CodeX - An Ed Tech Platform
+CodeX 
 
-Study Notion is an Ed Tech platform built using React, Express.js, and MongoDB. It aims to provide an interactive and user-friendly learning experience for students and educators alike.
+CodeX is an Ed Tech platform built using React, Express.js, and MongoDB. It aims to provide an interactive and user-friendly learning experience for students and educators alike.
 
 
 Features
@@ -16,7 +16,7 @@ Responsive Design: Accessible on all devices, including desktop, tablet, and mob
 
 
 Project Link
-Explore Study Notion: https://studynotion-edtech-project.vercel.app/
+Explore CodeX:
 
 
 
