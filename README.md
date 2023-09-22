@@ -1,5 +1,9 @@
+### Website link:- https://beamish-gingersnap-dc31d3.netlify.app/
+
 CodeX - An Ed Tech Platform
-CodeX 
+CodeX Link
+
+
 
 CodeX is an Ed Tech platform built using React, Express.js, and MongoDB. It aims to provide an interactive and user-friendly learning experience for students and educators alike.
 
