@@ -1,4 +1,4 @@
-### Website link:- https://beamish-gingersnap-dc31d3.netlify.app/
+### Website link:- [https://beamish-gingersnap-dc31d3.netlify.app/](https://code24x.netlify.app/)
 
 CodeX - An Ed Tech Platform
 
